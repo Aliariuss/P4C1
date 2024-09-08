@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muham\\source\\repos\\P4C1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCEF0CC-48CB-4141-AD83-3BE2F063F992}|P4C1\\P4C1.csproj|c:\\users\\muham\\source\\repos\\p4c1\\p4c1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCEF0CC-48CB-4141-AD83-3BE2F063F992}|P4C1\\P4C1.csproj|solutionrelative:p4c1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCEF0CC-48CB-4141-AD83-3BE2F063F992}|P4C1\\P4C1.csproj|c:\\users\\muham\\source\\repos\\p4c1\\p4c1\\utilities\\drawingshapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCEF0CC-48CB-4141-AD83-3BE2F063F992}|P4C1\\P4C1.csproj|solutionrelative:p4c1\\utilities\\drawingshapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCEF0CC-48CB-4141-AD83-3BE2F063F992}|P4C1\\P4C1.csproj|c:\\users\\muham\\source\\repos\\p4c1\\p4c1\\services\\shapedraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCEF0CC-48CB-4141-AD83-3BE2F063F992}|P4C1\\P4C1.csproj|solutionrelative:p4c1\\services\\shapedraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCEF0CC-48CB-4141-AD83-3BE2F063F992}|P4C1\\P4C1.csproj|c:\\users\\muham\\source\\repos\\p4c1\\p4c1\\services\\numberguessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCEF0CC-48CB-4141-AD83-3BE2F063F992}|P4C1\\P4C1.csproj|solutionrelative:p4c1\\services\\numberguessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCEF0CC-48CB-4141-AD83-3BE2F063F992}|P4C1\\P4C1.csproj|c:\\users\\muham\\source\\repos\\p4c1\\p4c1\\services\\multiplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCEF0CC-48CB-4141-AD83-3BE2F063F992}|P4C1\\P4C1.csproj|solutionrelative:p4c1\\services\\multiplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCEF0CC-48CB-4141-AD83-3BE2F063F992}|P4C1\\P4C1.csproj|c:\\users\\muham\\source\\repos\\p4c1\\p4c1\\services\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCEF0CC-48CB-4141-AD83-3BE2F063F992}|P4C1\\P4C1.csproj|solutionrelative:p4c1\\services\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCEF0CC-48CB-4141-AD83-3BE2F063F992}|P4C1\\P4C1.csproj|c:\\users\\muham\\source\\repos\\p4c1\\p4c1\\interfaces\\iapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCEF0CC-48CB-4141-AD83-3BE2F063F992}|P4C1\\P4C1.csproj|solutionrelative:p4c1\\interfaces\\iapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DrawingShapes.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\P4C1\\P4C1\\Utilities\\DrawingShapes.cs",
+              "RelativeDocumentMoniker": "P4C1\\Utilities\\DrawingShapes.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\P4C1\\P4C1\\Utilities\\DrawingShapes.cs",
+              "RelativeToolTip": "P4C1\\Utilities\\DrawingShapes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T22:14:30.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShapeDraw.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\P4C1\\P4C1\\Services\\ShapeDraw.cs",
+              "RelativeDocumentMoniker": "P4C1\\Services\\ShapeDraw.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\P4C1\\P4C1\\Services\\ShapeDraw.cs",
+              "RelativeToolTip": "P4C1\\Services\\ShapeDraw.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T22:13:25.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NumberGuessing.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\P4C1\\P4C1\\Services\\NumberGuessing.cs",
+              "RelativeDocumentMoniker": "P4C1\\Services\\NumberGuessing.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\P4C1\\P4C1\\Services\\NumberGuessing.cs",
+              "RelativeToolTip": "P4C1\\Services\\NumberGuessing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T22:11:34.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Multiplication.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\P4C1\\P4C1\\Services\\Multiplication.cs",
+              "RelativeDocumentMoniker": "P4C1\\Services\\Multiplication.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\P4C1\\P4C1\\Services\\Multiplication.cs",
+              "RelativeToolTip": "P4C1\\Services\\Multiplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T22:09:43.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\P4C1\\P4C1\\Services\\Calculator.cs",
+              "RelativeDocumentMoniker": "P4C1\\Services\\Calculator.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\P4C1\\P4C1\\Services\\Calculator.cs",
+              "RelativeToolTip": "P4C1\\Services\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T22:08:27.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IApplication.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\P4C1\\P4C1\\Interfaces\\IApplication.cs",
+              "RelativeDocumentMoniker": "P4C1\\Interfaces\\IApplication.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\P4C1\\P4C1\\Interfaces\\IApplication.cs",
+              "RelativeToolTip": "P4C1\\Interfaces\\IApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T22:06:56.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\P4C1\\P4C1\\Program.cs",
+              "RelativeDocumentMoniker": "P4C1\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\P4C1\\P4C1\\Program.cs",
+              "RelativeToolTip": "P4C1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T22:05:18.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

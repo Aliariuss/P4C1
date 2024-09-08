@@ -1,0 +1,14 @@
+C:\Users\muham\source\repos\P4C1\P4C1\bin\Debug\net8.0\P4C1.exe
+C:\Users\muham\source\repos\P4C1\P4C1\bin\Debug\net8.0\P4C1.deps.json
+C:\Users\muham\source\repos\P4C1\P4C1\bin\Debug\net8.0\P4C1.runtimeconfig.json
+C:\Users\muham\source\repos\P4C1\P4C1\bin\Debug\net8.0\P4C1.dll
+C:\Users\muham\source\repos\P4C1\P4C1\bin\Debug\net8.0\P4C1.pdb
+C:\Users\muham\source\repos\P4C1\P4C1\obj\Debug\net8.0\P4C1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\P4C1\P4C1\obj\Debug\net8.0\P4C1.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\P4C1\P4C1\obj\Debug\net8.0\P4C1.AssemblyInfo.cs
+C:\Users\muham\source\repos\P4C1\P4C1\obj\Debug\net8.0\P4C1.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\P4C1\P4C1\obj\Debug\net8.0\P4C1.dll
+C:\Users\muham\source\repos\P4C1\P4C1\obj\Debug\net8.0\refint\P4C1.dll
+C:\Users\muham\source\repos\P4C1\P4C1\obj\Debug\net8.0\P4C1.pdb
+C:\Users\muham\source\repos\P4C1\P4C1\obj\Debug\net8.0\P4C1.genruntimeconfig.cache
+C:\Users\muham\source\repos\P4C1\P4C1\obj\Debug\net8.0\ref\P4C1.dll
