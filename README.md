@@ -38,15 +38,6 @@ To run this project, you will need:
 
 3.Build and run the project by pressing F5 in Visual Studio or running the following command in the terminal:
 
-P4C1/
-│
-├── Interfaces/           # Contains IApplication interface
-├── Services/             # Contains implementations for Calculator, Multiplication, Number Guessing, and Shape Drawing
-├── Utilities/            # Contains helper methods for drawing shapes
-├── Program.cs            # Main entry point for the application
-├── P4C1.csproj           # Project file
-└── README.md             # Project documentation
-
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
